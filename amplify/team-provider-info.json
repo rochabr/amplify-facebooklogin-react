@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-facebooklogin-dev-172548-authRole",
+      "UnauthRoleArn": "arn:aws:iam::194991314508:role/amplify-facebooklogin-dev-172548-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::194991314508:role/amplify-facebooklogin-dev-172548-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-facebooklogin-dev-172548-deployment",
+      "UnauthRoleName": "amplify-facebooklogin-dev-172548-unauthRole",
+      "StackName": "amplify-facebooklogin-dev-172548",
+      "StackId": "arn:aws:cloudformation:us-west-2:194991314508:stack/amplify-facebooklogin-dev-172548/16181000-c339-11eb-94d3-0219537348af",
+      "AmplifyAppId": "d3fjp5hbsfk49j"
+    },
+    "categories": {
+      "auth": {
+        "facebooklogin91b2d599": {}
+      }
+    }
+  }
+}
